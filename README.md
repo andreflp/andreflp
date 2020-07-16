@@ -28,11 +28,6 @@
 </code>&nbsp;&nbsp;
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>&nbsp;&nbsp;
 
-
-</p><br>
-
-<h3  align='center'>Find me 🌎</h3><br>
-
 <p align='center'>
   <a href="https://www.github.com/andreflp/"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/andr%C3%A9-felipe-08ba68144/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
