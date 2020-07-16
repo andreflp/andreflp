@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### André Felipe - Software Developer 👋
 
 <h3 align="center"> Tech Stack </h3>
